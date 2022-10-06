@@ -224,7 +224,7 @@ html {
         text-decoration: none;
         background-image: linear-gradient(to right, rgb(255, 50, 50), rgb(172, 0, 172));
         -webkit-text-fill-color: white;
-        font-weight: 400;
+        font-weight: 500;
         /* margin-top: 40px;
         margin-right: 30px;
         margin-bottom: 60px; */
@@ -278,6 +278,7 @@ html {
     .title {
         font-weight: 500;
         margin-top: 50px;
+        font-size: 20px;
     }
     .download-list {
         background-color: white;
@@ -326,7 +327,7 @@ html {
         text-decoration: none;
         background-image: linear-gradient(to right, rgb(255, 50, 50), rgb(172, 0, 172));
         -webkit-text-fill-color: white;
-        font-weight: 400;
+        font-weight: 500;
         /* margin-top: 40px;
         margin-right: 30px;
         margin-bottom: 60px; */
@@ -380,6 +381,7 @@ html {
     .title {
         font-weight: 500;
         margin-top: 50px;
+        font-size: 20px;
     }
     .download-list {
         background-color: white;
